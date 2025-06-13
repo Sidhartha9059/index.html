@@ -1,0 +1,36 @@
+nav{
+    text-align: center;
+    background-color: lightgoldenrodyellow ;
+    color: darkcyan;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+}
+div{
+    font-size: medium;
+    color: chocolate;
+    border: 30px;
+    padding: 20px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+
+}
+img
+{
+    display:flex;
+    align-items:left;
+    width: 200px;
+    margin: auto;
+
+}
+p{
+    text-align: left;
+    color: blue;
+}
+footer{
+    text-align: end;
+    background-color:black;
+    margin-top: 400px;
+}
